@@ -53,6 +53,8 @@ xlim([0 20]); % Set x-axis to show up to 20 Hz
 - Peaks in the PSD plot indicate **dominant wave frequencies** affecting the ship.
 - This information helps engineers design **better stabilizers, hull shapes, and control systems** to minimize roll effects.
 
-# EXERCISE 2
+## **EXERCISE 2**
 ![image](https://github.com/user-attachments/assets/1f75b45a-0bba-4572-9f29-ad1b6e09826c)
 
+## **EXERCISE 3**
+![image](https://github.com/user-attachments/assets/87d9974a-6acd-4abc-b5e1-727a3c5cc4fe)
