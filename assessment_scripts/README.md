@@ -1,6 +1,3 @@
-# **README: Power Spectral Density (PSD) Analysis of Marine Waves Using MATLAB**
-
-
 ## **EXERCISE 1**
 
 ## **RESULT OF CODE**
