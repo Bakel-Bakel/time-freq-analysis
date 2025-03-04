@@ -63,22 +63,4 @@ xlim([0 20]); % Set x-axis to show up to 20 Hz
 - Peaks in the PSD plot indicate **dominant wave frequencies** affecting the ship.
 - This information helps engineers design **better stabilizers, hull shapes, and control systems** to minimize roll effects.
 
----
 
-## **Key Takeaways**
-✅ The **PSD helps us understand how ocean waves impact a ship’s roll motion**.  
-✅ High PSD values indicate **which wave frequencies are most dangerous for stability**.  
-✅ This analysis is used in **marine engineering** to design **safer ships and offshore structures**.  
-
----
-
-### **How Can This Be Applied?**
-- **Ship Stability Analysis**: Identifying **dangerous wave frequencies** that cause resonance.
-- **Wave-Induced Motion Control**: Designing **active stabilizers** to reduce rolling effects.
-- **Seakeeping Studies**: Understanding **how different sea conditions affect vessel behavior**.
-
-This method is a **core part of naval architecture and marine engineering**, helping to improve ship safety and performance in real-world ocean environments.
-
----
-
-This README provides a clear link between **FFT-based PSD analysis and real-world marine applications**. Let me know if you need any refinements! 🚢🌊
