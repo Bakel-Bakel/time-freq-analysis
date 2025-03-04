@@ -1,15 +1,8 @@
 # **README: Power Spectral Density (PSD) Analysis of Marine Waves Using MATLAB**
 
 
-## **EXERCISE 1: Overview**
-This MATLAB script analyzes a **roll motion time-series dataset** (`roll_motion.mat`) and computes its **Power Spectral Density (PSD)** using the **Fast Fourier Transform (FFT)**. The **PSD helps us understand the energy distribution** of the ship’s roll motion across different wave frequencies. 
+## **EXERCISE 1**
 
-### **Why is this important?**
-- In **marine engineering**, the roll motion of a ship is directly influenced by **ocean waves**.
-- Different **wave frequencies** can cause ships to **resonate**, leading to dangerous instability.
-- By analyzing the **PSD of roll motion**, engineers can **identify dominant wave frequencies** affecting the ship and design control strategies (e.g., stabilizers) to improve safety.
-
----
 ## **RESULT OF CODE**
 
 ![Screenshot from 2025-03-04 19-15-22](https://github.com/user-attachments/assets/492acd95-f805-4b08-bf46-04282ea7528f)
@@ -63,4 +56,6 @@ xlim([0 20]); % Set x-axis to show up to 20 Hz
 - Peaks in the PSD plot indicate **dominant wave frequencies** affecting the ship.
 - This information helps engineers design **better stabilizers, hull shapes, and control systems** to minimize roll effects.
 
+# EXERCISE 2
+![image](https://github.com/user-attachments/assets/1f75b45a-0bba-4572-9f29-ad1b6e09826c)
 
