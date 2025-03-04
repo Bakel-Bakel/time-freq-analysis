@@ -12,7 +12,8 @@ This MATLAB script analyzes a **roll motion time-series dataset** (`roll_motion.
 ---
 ## **RESULT OF CODE**
 
-/home/bakelbakel/Pictures/Screenshots/Screenshot from 2025-03-04 19-15-22.png
+![Screenshot from 2025-03-04 19-15-22](https://github.com/user-attachments/assets/492acd95-f805-4b08-bf46-04282ea7528f)
+
 
 ## **Step-by-Step Explanation of the MATLAB Code**
 
