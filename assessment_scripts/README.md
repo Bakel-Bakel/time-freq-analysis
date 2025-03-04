@@ -59,6 +59,7 @@ xlim([0 20]); % Set x-axis to show up to 20 Hz
 ## **EXERCISE 3**
 ![image](https://github.com/user-attachments/assets/87d9974a-6acd-4abc-b5e1-727a3c5cc4fe)
 ## **EXERCISE 4**
+![image](https://github.com/user-attachments/assets/57b5cb5d-4b40-4229-8faa-b133f92ef395)
 
 
 ## **EXERCISE 5**
