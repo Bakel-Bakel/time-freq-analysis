@@ -1,10 +1,7 @@
-Here is a **README** file that explains the MATLAB code in simple terms and relates it to **marine waves**:
-
----
-
 # **README: Power Spectral Density (PSD) Analysis of Marine Waves Using MATLAB**
 
-## **Overview**
+
+## **EXERCISE 1: Overview**
 This MATLAB script analyzes a **roll motion time-series dataset** (`roll_motion.mat`) and computes its **Power Spectral Density (PSD)** using the **Fast Fourier Transform (FFT)**. The **PSD helps us understand the energy distribution** of the ship’s roll motion across different wave frequencies. 
 
 ### **Why is this important?**
@@ -13,6 +10,9 @@ This MATLAB script analyzes a **roll motion time-series dataset** (`roll_motion.
 - By analyzing the **PSD of roll motion**, engineers can **identify dominant wave frequencies** affecting the ship and design control strategies (e.g., stabilizers) to improve safety.
 
 ---
+## **RESULT OF CODE**
+
+/home/bakelbakel/Pictures/Screenshots/Screenshot from 2025-03-04 19-15-22.png
 
 ## **Step-by-Step Explanation of the MATLAB Code**
 
